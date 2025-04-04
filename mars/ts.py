@@ -53,11 +53,11 @@ def promotion_image():
                          <body>
                            <h1>Жди нас Марс!</h1>
                            <img src="/static/img/mars.png" alt="здесь должна быть картинка">
-                           <div>Человечество вырастает из детства.</div>
-                           <div>Человечеству мала одна планета.</div>
-                           <div>Мы сделаем обитаемыми безжизненные пока планеты.</div>
-                           <div>И начнем с Марса!</div>
-                           <div>Присоединяйся!</div>
+                           <div class="cont grey">Человечество вырастает из детства.</div>
+                           <div class="cont green">Человечеству мала одна планета.</div>
+                           <div class="cont grey">Мы сделаем обитаемыми безжизненные пока планеты.</div>
+                           <div class="cont yellow">И начнем с Марса!</div>
+                           <div class="cont red">Присоединяйся!</div>
                          </body>
                        </html>'''
 

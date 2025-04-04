@@ -1,3 +1,29 @@
 h1 {
     color: red
 }
+
+.cont {
+    margin-bottom: 3px;
+    padding-top: 10px;
+    opacity: 0.9;
+}
+
+.grey {
+    background-color: var(--bs-secondary);
+    color: var(--gray-dark);
+}
+
+.green {
+    background-color: var(--bs-success);
+    color: #0a3d24;
+}
+
+.yellow {
+    background-color: var(--bs-warning);
+    color: #7c6212;
+}
+
+.red {
+    background-color: var(--bs-danger);
+    color: #551218;
+}
